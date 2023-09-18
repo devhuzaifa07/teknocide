@@ -1,0 +1,958 @@
+/*----------- Media Querry ( 1438 PX ) Width Start -----------*/
+
+@media only screen and (max-width: 1438px) {
+  .wsmenu > .wsmenu-list > li > a {
+    margin: 0px 14px 0px 18px;
+  }
+  .rotate-center:before {
+    left: -30px;
+  }
+  .main-banner-content h1 {
+    font-size: 55px;
+  }
+  .banner-down-content {
+    padding: 0px 15px;
+  }
+  .banner-down-content.clock {
+    padding: 9px 25px;
+  }
+  .second-row .service-card {
+    margin-right: 0px;
+  }
+  .about-us-content {
+    padding: 35px 50px 80px 50px;
+  }
+  .our-work-content {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 40px;
+  }
+  .our-work-content h1 {
+    font-size: 57px;
+  }
+  .work-card::after {
+    left: 135px;
+  }
+  .testimonial-content .testi-img::before {
+    right: 490px;
+    bottom: 10px;
+  }
+  .testimonial-content::before {
+    left: -135px;
+  }
+  section.project-section .tab {
+    padding-left: 75px;
+  }
+  .newsletter-content {
+    padding: 0px;
+  }
+  .newsletter-content::before {
+    bottom: -105px;
+    right: -275px;
+  }
+  .newsletter-content {
+    margin-top: 25px;
+  }
+  .combo-content a {
+    padding: 13px 40px;
+  }
+  .combo-content h1 {
+    font-size: 56px;
+  }
+  .combo-section {
+    padding: 100px 0px 70px 0px;
+  }
+  .plan-content h1 {
+    font-size: 53px;
+  }
+  .plan-section {
+    padding: 100px 0px 20px 0px;
+  }
+  .plan-content::before {
+    top: 50px;
+    left: -83px;
+  }
+  section.pricing-section .tab {
+    padding: 0px;
+  }
+  section.pricing-section .tab button {
+    margin-left: 20px;
+  }
+  .pricing-btn a {
+    padding: 12px 75px;
+  }
+  .choose-us-section {
+    padding: 75px 0px 60px 0px;
+  }
+  .ch-us-card::after {
+    left: 115px;
+  }
+  .ch-us-counter h5 {
+    font-size: 22px;
+  }
+  .choose-us-cards::before {
+    right: -85px;
+    top: 0px;
+  }
+  .choose-us-content h1 {
+    font-size: 55px;
+  }
+  .footer-section {
+    padding: 50px 0px 100px 0px;
+  }
+  .pricing-section {
+    padding: 100px 0px 5px 0px;
+  }
+  .testimonial-section {
+    padding: 100px 0px 80px 0px;
+  }
+  .overview-inner-sect-2 {
+    padding: 100px 145px;
+  }
+  .work-card {
+    margin-left: 18px;
+  }
+  .portfolio-inner-sect-2 {
+    padding: 65px 145px;
+  }
+  .packages-inner-page h1 {
+    font-size: 50px;
+  }
+  .packages-inner-page h1 span {
+    font-size: 50px;
+  }
+  .process-inner-page {
+    padding: 65px 0px;
+  }
+  .process-inner-page h6 {
+    margin-top: 40px;
+    margin-bottom: -10px;
+    font-size: 24px;
+  }
+  .process-inner-page h1 {
+    font-size: 52px;
+  }
+  .overview-inner-page {
+    padding: 70px 0px 50px 0px;
+  }
+  .overview-inner-page h1 {
+    font-size: 46px;
+  }
+  .overview-inner-page h1 span {
+    font-size: 54px;
+  }
+  .choose-us-inner-page {
+    padding: 70px 0px;
+  }
+  .choose-us-inner-page h1 {
+    font-size: 49px;
+  }
+  .choose-us-inner-page h1 span {
+    font-size: 54px;
+  }
+  .portfolio-inner-page {
+    padding: 70px 0px;
+  }
+  .portfolio-inner-page h1 {
+    font-size: 51px;
+  }
+  .portfolio-inner-page h1 span {
+    font-size: 52px;
+  }
+  .packages-inner-page {
+    padding: 70px 0px;
+  }
+  .testi-inner-page {
+    padding: 70px 0px;
+  }
+  .testi-inner-page h1 {
+    font-size: 49px;
+  }
+  .testi-inner-page h1 span {
+    font-size: 51px;
+  }
+  .faq-inner-page {
+    padding: 70px 0px;
+  }
+  .faq-inner-page h1 {
+    font-size: 53px;
+  }
+  .faq-inner-page h1 span {
+    font-size: 53px;
+  }
+  .guarantee-inner-page {
+    padding: 70px 0px;
+  }
+  .guarantee-inner-page h1 {
+    font-size: 51px;
+  }
+  .guarantee-inner-page h1 span {
+    font-size: 54px;
+  }
+  .guarantee-inner-content {
+    padding: 0px;
+    margin: 20px 0px 55px 0px;
+  }
+  .guarantee-inner-content h1 {
+    font-size: 54px;
+  }
+  .about-inner-page {
+    padding: 70px 0px;
+  }
+  .about-inner-page h1 {
+    font-size: 52px;
+  }
+  .about-inner-page h1 span {
+    font-size: 50px;
+  }
+  .about-inner-sect-2 {
+    padding: 100px 145px;
+  }
+  .contact-inner-page {
+    padding: 70px 0px;
+  }
+  .contact-inner-page h1 {
+    font-size: 49px;
+  }
+  .contact-inner-page h1 span {
+    font-size: 50px;
+  }
+  .contact-inner-page p {
+    font-size: 15px;
+  }
+}
+
+/*----------- Media Querry ( 1438 PX ) Width End -----------*/
+
+/*----------- Media Querry ( 1024 PX ) Width Start -----------*/
+
+@media only screen and (max-width: 1024px) {
+  .header-before ul li {
+    margin: 50px 5px 0px 0px;
+  }
+  .header-before ul {
+    margin-right: 0px;
+    padding-left: 0px;
+  }
+  .wsmainfull {
+    width: 103%;
+  }
+  .wsmenu > .wsmenu-list > li > a {
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 14px;
+  }
+  .main-banner-content h1 {
+    font-size: 42px;
+  }
+  .rotate-center:before {
+    display: none;
+  }
+  .main-banner-content h2 {
+    font-size: 50px;
+  }
+  .main-banner-content h5 {
+    font-size: 24px;
+  }
+  .main-banner-content p {
+    padding-right: 0px;
+  }
+  .banner-down-content.clock {
+    padding: 0px;
+  }
+  .banner-down-content {
+    padding: 0px;
+  }
+  .service-card {
+    margin-left: 0px;
+  }
+  .second-row .service-card {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .about-us-content {
+    padding: 0px;
+  }
+  .design-all-card:hover {
+    width: 415px;
+  }
+  .our-work-content h1 {
+    font-size: 49px;
+  }
+  .our-work-content {
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .testimonial-content .testi-img::before {
+    right: 393px;
+    top: 8px;
+  }
+  .testimonial-content::before {
+    left: -345px;
+    top: -55px;
+  }
+  .testi-card {
+    width: 885px;
+  }
+  section.project-section .tab {
+    padding: 0px;
+  }
+  section.project-section .tab button {
+    margin-left: 5px;
+  }
+  .newsletter-content {
+    padding: 0px;
+    margin-top: -35px;
+  }
+  .newsletter-content h1 {
+    font-size: 65px;
+  }
+  input[type="email"] {
+    padding: 20px 200px 20px 33px;
+  }
+  .newsletter-content::before {
+    top: 0px;
+    left: 460px;
+  }
+  .combo-content {
+    padding: 0px;
+  }
+  .combo-content h1 {
+    font-size: 52px;
+  }
+  .combo-content p {
+    width: auto;
+  }
+  .combo-content a {
+    padding: 13px 48px;
+  }
+  .plan-content h1 {
+    font-size: 42px;
+  }
+  .plan-content::before {
+    /* top: -99px;
+    left: -48px; */
+    top: 14px;
+    left: 345px;
+  }
+  section.pricing-section .tab {
+    padding-left: 0px;
+  }
+  section.pricing-section .tab button {
+    padding: 10px 6px;
+    margin-left: 10px;
+  }
+  .pricing-card {
+    margin: 8px 5px;
+    padding: 25px 8px;
+  }
+  .pricing-btn a {
+    padding: 12px 60px;
+  }
+  .plan-section {
+    padding: 120px 0px 30px 0px;
+  }
+  .choose-us-content {
+    padding: 40px 0px;
+  }
+  .ch-us-counter h5 {
+    font-size: 23px;
+  }
+  .choose-us-section {
+    padding: 50px 0px;
+  }
+  .footer-content {
+    padding: 25px 10px;
+  }
+  .footer-section {
+    padding: 50px 0px 100px 0px;
+  }
+  .ch-us-card {
+    padding: 25px 0 0 0;
+    min-height: 289px;
+  }
+  .ch-us-card img.bottom-arrow {
+    margin-bottom: -20px;
+  }
+  .ch-us-card::after {
+    left: 90px;
+  }
+}
+
+/*----------- Media Querry ( 1024 PX ) Width End -----------*/
+
+/*----------- Media Querry ( 991 PX ) Width Start -----------*/
+
+@media only screen and (max-width: 991px) {
+  .testi-card {
+    width: 650px;
+  }
+  .testimonial-content .testi-img::before {
+    right: 280px;
+  }
+  .about-us-img {
+    text-align: center;
+    margin-top: 35px;
+  }
+  .design-all-card:hover {
+    width: auto;
+  }
+  .project-heading h1 {
+    margin-top: 65px;
+  }
+  .newsletter-content::before {
+    top: 555px;
+    left: -45px;
+  }
+  .newsletter-content {
+    margin-bottom: 30px;
+  }
+  .newsletter-content h1 {
+    font-size: 80px;
+  }
+  .combo-logo-content ul {
+    margin-bottom: 40px;
+  }
+  .combo-content {
+    margin-top: 60px;
+    margin-bottom: 20px;
+  }
+  .banner-down-content {
+    border-right: none;
+    border-bottom: solid 2px #885784;
+    justify-content: center;
+    padding: 5px;
+    margin-top: 15px;
+  }
+  .banner-down-content img {
+    margin-top: -13px;
+    margin-bottom: 8px;
+  }
+  .service-card {
+    margin-bottom: 30px;
+  }
+  .first-row {
+    display: flow-root;
+  }
+  .first-row .service-card {
+    margin-right: 10px;
+    max-width: auto;
+  }
+  .first-row .service-card {
+    float: right;
+  }
+  .second-row {
+    display: flow-root;
+  }
+  .second-row .service-card {
+    margin-right: 10px;
+  }
+  .plan-content::before {
+    top: 315px;
+    left: -88px;
+  }
+  .combo-img::after {
+    left: 10px;
+  }
+  .about-us-img::after {
+    left: -15px;
+  }
+  section.pricing-section .tab button {
+    margin-bottom: 20px;
+  }
+  .service-cards::before {
+    top: -55px;
+  }
+  .plan-btn {
+    margin-bottom: 30px;
+  }
+  section.pricing-section .tab button {
+    border-radius: 6px;
+  }
+  .pricing-card {
+    width: 540px;
+    margin-left: 60px;
+    padding: 35px;
+  }
+  .ch-us-card::after {
+    left: 145px;
+  }
+  .main-banner-section .container {
+    max-width: 540px;
+  }
+}
+
+/*----------- Media Querry ( 991 PX ) Width End -----------*/
+
+/*----------- Media Querry ( 768 PX ) Width Start -----------*/
+
+@media only screen and (max-width: 768px) {
+  .header-before ul {
+    display: none;
+  }
+  .main-banner-content {
+    padding: 0px;
+    margin: 25px 0px;
+  }
+  .main-banner-section {
+    margin-top: 30px;
+  }
+  .main-banner-content h5 {
+    font-size: 22px;
+  }
+  .main-banner-content h1 {
+    font-size: 45px;
+  }
+  .main-banner-content h2 {
+    font-size: 48px;
+  }
+  .main-banner-content p {
+    padding-right: 15px;
+  }
+  .rotate-center:before {
+    display: none;
+  }
+  .main-banner-img.rotate-center img {
+    margin-top: 30px;
+  }
+  .banner-down-content {
+    border-right: none;
+    border-bottom: solid 2px #885784;
+    margin-bottom: 25px;
+  }
+  .banner-down-section {
+    padding: 25px 25px 0px 25px;
+  }
+  .banner-down-content.clock img {
+    margin-top: -6px;
+    height: 60px;
+    margin-bottom: 8px;
+  }
+  .service-card {
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+  }
+  .second-row .service-card {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .second-row {
+    margin-top: 0px;
+  }
+  .about-us-content {
+    padding: 0px;
+  }
+  .about-us-content h1 span {
+    font-size: 46px;
+  }
+  .about-us-img {
+    margin-top: 40px;
+  }
+  .about-us-content h6 {
+    font-size: 21px;
+  }
+  .design-section {
+    padding: 50px 0px;
+  }
+  .our-work-content {
+    margin-left: 15px;
+  }
+  .slick-prev:before,
+  .slick-next:before {
+    display: none;
+  }
+  .testimonial-content .testi-img::before {
+    right: 515px;
+    z-index: -1;
+  }
+  .testimonial-content::before {
+    display: none;
+  }
+  .testi-card {
+    width: 388px;
+    padding: 20px;
+  }
+  .testi-card::before {
+    left: 20px;
+  }
+  .testimonial-heading h1 {
+    font-size: 48px;
+  }
+  section.project-section .tab {
+    padding-left: 0px;
+  }
+  section.project-section .tab {
+    display: grid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .project-heading {
+    margin-top: 45px;
+  }
+  .newsletter-content {
+    padding: 0px;
+    margin-top: 35px;
+  }
+  .newsletter-content::before {
+    display: none;
+  }
+  .newsletter-img {
+    margin-top: 35px;
+  }
+  .testimonial-section {
+    padding: 100px 0px 0px 0px;
+  }
+  input[type="email"] {
+    padding: 20px 150px 20px 33px;
+  }
+  .combo-img img {
+    height: auto;
+  }
+  .combo-content {
+    margin-top: 80px;
+    padding: 9px;
+  }
+  .combo-content p {
+    width: auto;
+  }
+  .combo-logo-content ul {
+    margin-bottom: 30px;
+  }
+  .combo-web-content h3 {
+    margin-top: 45px;
+  }
+  .combo-section {
+    padding: 100px 0px;
+  }
+  .plan-section {
+    padding: 30px 0px;
+  }
+  .plan-content {
+    padding: 10px;
+  }
+  .plan-content::before {
+    display: none;
+  }
+  .plan-img {
+    margin-top: 45px;
+  }
+  .pricing-heading h6 {
+    font-size: 22px;
+  }
+  .pricing-heading h1 {
+    font-size: 48px;
+  }
+  section.pricing-section .tab {
+    display: grid;
+    padding: 0px;
+  }
+  section.pricing-section .tab button {
+    margin-left: 0px;
+    margin-bottom: 25px;
+  }
+  .pricing-card {
+    margin: 10px 5px;
+    padding: 5px;
+    width: auto;
+  }
+  .pricing-card-heading h5 {
+    margin-top: 20px;
+  }
+  .choose-us-content {
+    padding: 0px;
+    padding-right: 0px;
+  }
+  .ch-us-counter {
+    margin-top: 25px;
+    text-align: center;
+  }
+  .ch-call-btn {
+    text-align: center;
+  }
+  .ch-chat-btn {
+    text-align: center;
+  }
+  .project-card {
+    padding-bottom: 20px;
+    border-radius: 25px;
+  }
+  .combo-content h5 {
+    font-size: 18px;
+  }
+  .plan-content h1 {
+    font-size: 48px;
+  }
+  .choose-us-section {
+    padding: 100px 0px 0px 0px;
+  }
+  .pricing-card-content h4 {
+    margin-bottom: 25px;
+  }
+  .footer-icons {
+    margin: 30px 0px 20px 0px;
+  }
+  .footer-link {
+    text-align: left;
+    margin-left: 20px;
+  }
+  .footer-link h4 {
+    padding-bottom: 10px;
+    border-bottom: solid #c63ee3;
+    width: fit-content;
+    /* margin-left: auto;
+    margin-right: auto; */
+  }
+  .choose-us-cards::before {
+    right: -10px;
+    top: -60px;
+  }
+
+  .footer-link ul li a {
+    font-size: 22px;
+  }
+  .footer-bottom-line {
+    display: grid;
+  }
+  .terms-content {
+    margin-bottom: 15px;
+    margin-top: -15px;
+    margin-left: 0px;
+  }
+  .copyright-content {
+    text-align: center;
+    float: none;
+  }
+  .terms-content ul {
+    text-align: center;
+    margin-left: 60px;
+    padding-left: 0px;
+  }
+  .combo-content h1 {
+    font-size: 41px;
+  }
+  .process-inner-page {
+    margin-top: 50px;
+  }
+  .process-step-box p {
+    min-width: 285px;
+  }
+  .process-step-box-2 p {
+    min-width: 285px;
+  }
+  .process-step-box-3 p {
+    min-width: 285px;
+  }
+  .process-step-box-4 p {
+    min-width: 285px;
+  }
+  .process-step-box-5 p {
+    min-width: 285px;
+  }
+  .process-step-box-4 p {
+    padding-left: 35px;
+  }
+  .overview-inner-page {
+    margin-top: 50px;
+  }
+  .overview-inner-sect-2 {
+    padding: 0px;
+  }
+  .overview-inner-sect-2 h1 {
+    font-size: 35px;
+  }
+  .choose-us-inner-page {
+    margin-top: 50px;
+  }
+  .choose-us-inner-page h1 {
+    font-size: 50px;
+  }
+  .choose-us-inner-heading h1 {
+    font-size: 37px;
+  }
+  .portfolio-inner-page {
+    margin-top: 50px;
+  }
+  .portfolio-inner-sect-2 {
+    padding: 0px;
+  }
+  .packages-inner-page {
+    margin-top: 50px;
+  }
+  .testi-inner-page {
+    margin-top: 50px;
+  }
+  .faq-inner-page {
+    margin-top: 50px;
+  }
+  .faq-content {
+    width: auto;
+    padding: 40px 10px;
+  }
+  .faq-content::before {
+    top: -135px;
+    right: 0px;
+  }
+  .faq-container .accordion {
+    padding: 15px;
+  }
+  .faq-container .panel:before {
+    border: none;
+  }
+  .faq-container .panel {
+    border-radius: 0px 0px 15px 15px;
+    margin-top: -43px;
+  }
+  .faq-content {
+    border-radius: 15px;
+  }
+  .guarantee-inner-page {
+    margin-top: 50px;
+  }
+  .guarantee-inner-content {
+    padding: 0px;
+  }
+  .guarantee-inner-sect-2 {
+    padding: 45px 0px 0px 0px;
+  }
+  .guarantee-inner-content h1 {
+    font-size: 44px;
+  }
+  .guarantee-inner-img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  .guarantee-inner-page h1 {
+    font-size: 38px;
+  }
+  .about-inner-page {
+    margin-top: 20px;
+  }
+  .about-inner-page h1 {
+    font-size: 50px;
+  }
+  .about-inner-sect-2 {
+    padding: 30px 0px;
+  }
+  .about-inner-sect-2 h1 {
+    font-size: 25px;
+  }
+  .about-inner-sect-2 h1 span {
+    font-size: 47px;
+  }
+  .contact-inner-page {
+    margin-top: 20px;
+  }
+  .contact-inner-page h1 {
+    font-size: 45px;
+  }
+  .contact-inner-heading h1 {
+    font-size: 47px;
+  }
+  .wsmainfull-1 {
+    display: none;
+  }
+  .newsletter-section {
+    padding: 10px 0px 30px 0px;
+  }
+  .combo-inner-img {
+    margin-right: 0px;
+  }
+  .combo-img {
+    margin-right: 0px;
+  }
+  .thankyou-sec {
+    margin-bottom: -140px;
+    margin-top: 70px;
+  }
+  .design-heading h2 {
+    font-size: 37px;
+  }
+  .design-heading h1 {
+    font-size: 29px;
+  }
+  .design-all-card:hover {
+    transform: scale(1.01);
+  }
+  .work-card::after {
+    left: 150px;
+  }
+  .newsletter-content h1 {
+    font-size: 59px;
+  }
+  .ch-us-card::after {
+    left: 170px;
+  }
+  .ch-us-card {
+    padding: 25px;
+  }
+  .footer-content {
+    padding: 25px 10px 12px 10px;
+  }
+  .header-before {
+    display: none;
+  }
+  .overview-inner-page h1 {
+    font-size: 40px;
+  }
+  .overview-inner-page h1 span {
+    font-size: 43px;
+  }
+  .overview-inner-sect-2 h1 span {
+    font-size: 37px;
+  }
+  .choose-us-inner-page h1 span {
+    font-size: 53px;
+  }
+  .choose-us-inner-heading h1 span {
+    font-size: 41px;
+  }
+  .process-inner-page p br {
+    display: none;
+  }
+  .process-inner-sect-2 h1 {
+    font-size: 38px;
+  }
+  .portfolio-inner-page h1 span {
+    font-size: 46px;
+  }
+  .portfolio-inner-sect-2 h1 {
+    font-size: 49px;
+  }
+  .testi-inner-page h1 span {
+    font-size: 43px;
+  }
+  .faq-inner-page h1 {
+    font-size: 49px;
+  }
+  .faq-inner-sect-2 {
+    padding: 100px 0px 10px 0px;
+  }
+  .guarantee-inner-page h1 span {
+    font-size: 50px;
+  }
+  .plan-content a {
+    padding: 14px 50px;
+  }
+  .about-us-img::after {
+    display: none;
+  }
+  .combo-img::after {
+    display: none;
+  }
+  .banner-down-content.clock {
+    padding: 10px 50px;
+  }
+}
+
+/*----------- Media Querry ( 768 PX ) Width End -----------*/
+
+@media screen and (max-width: 1250px) {
+  .wow {
+    animation-name: none !important;
+    visibility: visible !important;
+  }
+}
